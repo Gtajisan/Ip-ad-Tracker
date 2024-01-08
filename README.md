@@ -2,14 +2,14 @@
 <a href="#"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff0000&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/BINOD-XD/Ip-Tracker"><img title="Tool Name" src="https://img.shields.io/badge/Tool-Ip Tracker-green.svg"></a>
-<a href="https://github.com/BINOD-XD/Ip-Tracker"><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square"></a>
-<a href="https://github.com/BINOD-XD/Ip-Tracker"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<a href="https://github.com/Gtajsan/Ip-Tracker"><img title="Tool Name" src="https://img.shields.io/badge/Tool-Ip Tracker-green.svg"></a>
+<a href="https://github.com/Gtajsan/Ip-Tracker"><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square"></a>
+<a href="https://github.com/Gtajsan/Ip-Tracker"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 </p>
 <p align="center">
-<a href="https://github.com/BINOD-XD"><img title="Github" src="https://img.shields.io/badge/BINOD-XD-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=riyadhossainshanto5@gmail.com"><img title="Gmail" src="https://img.shields.io/badge/Gmail-Reyad Hossain-green?style=for-the-badge&logo=Gmail"></a>
+<a href="https://github.com/Gtajsan"><img title="Github" src="https://img.shields.io/badge/Gtajsan-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=ffjsan804@gmail.com"><img title="Gmail" src="FARHAN MUH TASIM-green?style=for-the-badge&logo=Gmail"></a>
 </p>
 <p align="center">
 <a href="https://github.com/BINOD-XD"><img title="Language" src="https://img.shields.io/badge/Made%20with-PHP & Shell-1f425f.svg?v=103"></a>
