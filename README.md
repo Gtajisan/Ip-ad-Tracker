@@ -69,7 +69,7 @@ pkg install python2 -y
 pkg install git -y
 ```
 ```
-git clone --depth 1 https://github.com/Gtajisan/Ip-Tracker
+git clone --depth 1 https://github.com/Gtajisan/Ip-ad-Tracker
 ```
 
 ### Now you need internet connection to continue further process...
