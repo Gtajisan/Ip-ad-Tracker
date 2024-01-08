@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Gtajsan"><img title="Github" src="https://img.shields.io/badge/Gtajsan-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=ffjsan804@gmail.com"><img title="Gmail" src="FARHAN-MUHTASIM-green?style=for-the-badge&logo=Gmail"></a>
+<a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=ffjsan804@gmail.com"><img title="Gmail" src="FARHAN MUH TASIM-green?style=for-the-badge&logo=Gmail"></a>
 </p>
 <p align="center">
 <a href="https://github.com/BINOD-XD"><img title="Language" src="https://img.shields.io/badge/Made%20with-PHP & Shell-1f425f.svg?v=103"></a>
@@ -69,7 +69,7 @@ pkg install python2 -y
 pkg install git -y
 ```
 ```
-git clone --depth 1 https://github.com/Gtajsan/Ip-Tracker
+git clone --depth 1 https://github.com/Gtajisan/Ip-Tracker
 ```
 
 ### Now you need internet connection to continue further process...
@@ -143,6 +143,6 @@ __TRACER --HELP__ :
 
 # Acknowledgements
 ## Special Thanks <span style='font-size:45px;'>&#128071;</span>
-<a href="https://teamrxs.xyz"><img title="REYAD X SHIPU" src="https://img.shields.io/badge/REYAD X SHIPU-%23000000.svg?&sstyle=for-the-badge"></a>
+<a href="https://teamrxs.xyz"><img title="FARHAN MUH TASIM" src="https://img.shields.io/badge/FARHAN MUH TASIM-%23000000.svg?&sstyle=for-the-badge"></a>
 
 ## Thanks For Using This Tool <span style='font-size:45px;'>&#128536;</span> <span style='font-size:45px;'>&#128525;</span>
