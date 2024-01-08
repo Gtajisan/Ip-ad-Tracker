@@ -37,8 +37,8 @@ function upd() {
   logo();
   echo "\n\033[01;32mUpdating Ip-ad-Tracker.........\033[01;37m\n\n";
   sleep(1);
-  system("cd ~/ && git clone https://github.com/BINOD-XD/Ip-ad-Tracker.git");
-  system("cd ~/ && sudo git clone https://github.com/BINOD-XD/Ip-ad-Tracker.git");
+  system("cd ~/ && git clone https://github.com/Gtajisan/Ip-ad-Tracker.git");
+  system("cd ~/ && sudo git clone https://github.com/Gtajisan/Ip-ad-Tracker.git");
   system("cd ~/Ip-ad-Tracker && sh install");
   logo();
   echo "\n\033[01;32m              Ip-ad-Tracker updated !!!\033[01;37m\n";
