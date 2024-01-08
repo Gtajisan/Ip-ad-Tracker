@@ -9,14 +9,14 @@
 </p>
 <p align="center">
 <a href="https://github.com/Gtajsan"><img title="Github" src="https://img.shields.io/badge/Gtajsan-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=ffjsan804@gmail.com"><img title="Gmail" src="FARHAN MUH TASIM-green?style=for-the-badge&logo=Gmail"></a>
+<a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=ffjsan804@gmail.com"><img title="Gmail" src="FARHAN-MUHTASIM-green?style=for-the-badge&logo=Gmail"></a>
 </p>
 <p align="center">
 <a href="https://github.com/BINOD-XD"><img title="Language" src="https://img.shields.io/badge/Made%20with-PHP & Shell-1f425f.svg?v=103"></a>
-<a href="https://github.com/BINOD-XD"><img title="Followers" src="https://img.shields.io/github/followers/BINOD-XD?color=blue&style=flat-square"></a>
-<a href="https://github.com/BINOD-XD"><img title="Stars" src="https://img.shields.io/github/stars/BINOD-XD/Ip-Tracker?color=red&style=flat-square"></a>
-<a href="https://github.com/BINOD-XD"><img title="Forks" src="https://img.shields.io/github/forks/BINOD-XD/Ip-Tracker?color=red&style=flat-square"></a>
-<a href="https://github.com/BINOD-XD"><img title="Watching" src="https://img.shields.io/github/watchers/BINOD-XD/Ip-Tracker?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/BINOD-XD"><img title="Followers" src="https://img.shields.io/github/followers/Gtajsan?color=blue&style=flat-square"></a>
+<a href="https://github.com/BINOD-XD"><img title="Stars" src="https://img.shields.io/github/stars/Gtajsan/Ip-Tracker?color=red&style=flat-square"></a>
+<a href="https://github.com/BINOD-XD"><img title="Forks" src="https://img.shields.io/github/forks/Gtajsan/Ip-Tracker?color=red&style=flat-square"></a>
+<a href="https://github.com/BINOD-XD"><img title="Watching" src="https://img.shields.io/github/watchers/Gtajsan/Ip-Tracker?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/BINOD-XD"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 <p align="center">
@@ -69,7 +69,7 @@ pkg install python2 -y
 pkg install git -y
 ```
 ```
-git clone --depth 1 https://github.com/BINOD-XD/Ip-Tracker
+git clone --depth 1 https://github.com/Gtajsan/Ip-Tracker
 ```
 
 ### Now you need internet connection to continue further process...
